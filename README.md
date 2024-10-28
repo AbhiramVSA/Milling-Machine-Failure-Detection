@@ -1,4 +1,4 @@
-#Milling Machine Failure Detection with CustomTkinter GUI****
+# Milling Machine Failure Detection with CustomTkinter GUI
 ![image](https://github.com/user-attachments/assets/3c67029a-c5dd-42fe-bb63-29d207dacf41)
 This project provides a graphical user interface (GUI) application for detecting milling machine failures using **CustomTkinter**. The application allows users to input various parameters and receive predictions about potential failures, helping improve maintenance efficiency and reduce downtime.
 
